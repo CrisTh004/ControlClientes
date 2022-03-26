@@ -58,7 +58,7 @@
                                     <div class="row">
                                         <p class="text-dark">No tienes una cuenta? 
                                             <button class="btn btn-link text-decoration-none" type="button" data-bs-toggle="offcanvas" data-bs-target="#usuarioRegistroCanvas">
-                                                Registrate aqui
+                                                Registrate aqui!!
                                             </button>
                                         </p>
                                     </div>
